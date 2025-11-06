@@ -22,7 +22,7 @@ A simple, header-only, thread-safe, asynchronous logging library for C++.
 1.  **Clone the repository:**
     ```sh
     git clone git@github.com:MishraMohit21/BlazeLog_Lib.git
-    cd BlazeLog
+    cd BlazeLog_Lib
     ```
 
 2.  **Create a build directory:**
