@@ -1,0 +1,19 @@
+# CMake build files
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.a
+*.so
+*.o
+blazelog_example
+
+# IDE-specific files
+.vscode/
+
+# Log files
+*.log
+
+# CMake User Presets
+CMakeUserPresets.json
